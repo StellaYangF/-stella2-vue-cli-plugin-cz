@@ -9,6 +9,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StellaYangF/"
-  }
+    "url": "git+https://github.com/StellaYangF/stella2-vue-cli-plugin-cz.git"
+  },
+  "homepage": "https://github.com/StellaYangF/stella2-vue-cli-plugin-cz.git#readme"
 }

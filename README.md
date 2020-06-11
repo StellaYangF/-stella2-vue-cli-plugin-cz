@@ -6,4 +6,4 @@
 ```bash
 vue add @stella2/vue-cli-plugin-cz
 ```
-> Tip: 
+> Tip: Cz tools config will be extended your existing package with new dependencies, create new files in your project or edit existing one.
