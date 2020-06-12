@@ -1,12 +1,16 @@
 {
   "name": "@stella2/vue-cli-plugin-cz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue-cli plugin for commitizing conventional message tool",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
-  "keywords": ["vue-cli", "plugin", "cz"],
+  "keywords": [
+    "vue-cli",
+    "plugin",
+    "cz"
+  ],
   "author": "Stella",
   "license": "ISC",
   "repository": {
